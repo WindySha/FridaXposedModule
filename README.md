@@ -8,6 +8,7 @@
 2. 在支持Xposed的双开环境下启动原App，比如[SandVXposed](https://github.com/ganyao114/SandVXposed)，然后在双开环境中安装此Xposed模块，并启用它即可；
 此方法未测试，原则上是可行。
 ## 实现原理
-实现原理解析博文已发布到个人技术公众号**Android葵花宝典**上。  
-微信扫一扫关注公众号，即可：  
+[非Root环境下使用Frida的一种方案](https://windysha.github.io/2020/05/28/%E9%9D%9ERoot%E7%8E%AF%E5%A2%83%E4%B8%8B%E4%BD%BF%E7%94%A8Frida%E7%9A%84%E4%B8%80%E7%A7%8D%E6%96%B9%E6%A1%88/)
+
+个人技术公众号号，扫一扫即可：  
 ![](https://upload-images.jianshu.io/upload_images/1639238-ab6e0fceabfffdda.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/180)
